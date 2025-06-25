@@ -1,1 +1,3 @@
 # HR-Attrition-Analysis-Dashboard
+This is a Power BI Desktop project focused on HR Attrition Analysis. The project involves creating an interactive and insightful dashboard to analyze employee attrition trends within an organization. It includes comprehensive data cleaning and transformation using Power Query, followed by designing visually appealing reports using charts, KPIs, slicers, and filters. The dashboard provides key insights into employee demographics, job satisfaction, attrition rates, and other HR metrics that help decision-makers identify patterns and take strategic actions to reduce attrition. The goal of this project is to support HR teams in understanding the factors influencing employee turnover and to aid in improving employee retention strategies.
+
